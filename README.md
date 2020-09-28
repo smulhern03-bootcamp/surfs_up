@@ -15,3 +15,6 @@ June vs December Precipitation
 ![June precip](https://github.com/smulhern03-bootcamp/surfs_up/blob/master/June%20precipitation.PNG)![December precip](https://github.com/smulhern03-bootcamp/surfs_up/blob/master/December%20precipitation.PNG)
 
 The precipitation data between the two months is not substation.  On average, both months get less than an inch.  However, the maximum amount of precipitation is more of a concern - 4 vs 6 inches.  6 inches of rain coupled with a minimum temperature of 56 degrees in December may result in a significant decrease for ice cream sales in December - cold and rainy is not neccessarily conducive to ice cream consumption.
+
+## Summary
+Overall, both months a good for ice cream sales.  Mild temperatures for both months and relatively low preciptation will provide warm, dry days for ice cream sales.  The largest concern would be December rains.  Larger amounts of preciptiation in December coupled with lower minimum temperatures could see days of low ice cream sales.
